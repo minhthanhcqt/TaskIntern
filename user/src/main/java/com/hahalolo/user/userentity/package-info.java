@@ -1,0 +1,1 @@
+package com.hahalolo.user.userentity;
